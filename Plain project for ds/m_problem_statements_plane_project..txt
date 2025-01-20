@@ -1,0 +1,24 @@
+SIMULATE AIRPORT LANDING AND TAKEOFF PATTERN.
+
+PROBLEM STATEMENT : 
+		1. The Airport has three runways and has four landing holding patterns. Two landing holding patterns for each of the first two runways.
+		2. Arriving plane will enter into one of the holding patterns queues and assigned an integer ID with number of time units the plane can remain in the queue before it 
+must land(Because of the low fuel level).
+		3. The airport has queue for takeoffs for each of the three runways and arriving planes into the takeoff queue are also assigned with ID.
+		4. At each time three planes may arrive at the landing queues and also takeoff queues. Each arriving planes has time unit of fuel remaining.
+		5. Each runway can handle one takeoff or one landing at a time. but third runway  handles only  takeoffs, except when a plane is low on fuel (At each time unit ,
+planes in landing queues whose air time has reached zero) then given priority over other landings and takeoffs. If only one plane is in this category then runway 3 is used. If more 
+than one plane is in this category then other runways will be used (At each time slot at most 3 planes can be serviced in this way).
+		6. Use successive even integer ID's for takeoff planes and odd integer ID's for landing planes.
+		7. Arriving planes must be placed at end of the queues. The queues should be kept the same size.
+
+ From the given statements, we need to design a algorithm to Simulate an airport landing and takeoff pattern.
+
+
+WHAT WE HAVE TO PRODUCE ? 
+	At each time unit
+		1. The contents of each queues.
+		2. The average takeoff waiting time and avearge landing waiting time.
+		3. The average flying time remaining on landing and the number of plains landing with no fuel reserve.
+		 
+		

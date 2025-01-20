@@ -1,0 +1,36 @@
+DIFFERENCE BETWEEN 'VAR AND 'LET'
+
+What is 'var' keyword ? 
+	1.  'var' keyword is old way of declaring variable.
+	2.  'var' keyword is a function scope so we can access var declared variable anywhere in the function block.
+	3.  If you are using 'var' variable before initialization it will not give error. it will give 'undefined'.
+	(EX) - console.log(a);
+		var a = 10;
+		o/p ----> Undefined
+	4. Before  ES6 we have only Global scope and Function Scope so we have used 'var' keyword . it doesn't care about block scopes inside of the function.
+
+When we use 'var' keyword ?
+	1. if you want to run your code in older version browsers you must use 'var' keyword.
+	2. You can create a variable with 'var' inside the block scope then you can able to get a variable from outside of the block and inside of the function anywhere.
+	3. You need to access a variable inside of the function and don't care about block then we can use 'var' keyword.
+
+What is 'let' keyword ?
+	1.'Let' keyword introduced in ES6 ( modern js ).
+	2. 'let' is block scoped varible.
+	3. If you are using 'let' variable before initialization it will give error which is the variable is not declared.
+	(EX) - console.log(a);
+		let a = 10;
+		o/p ----> a is not declared.
+
+When to you 'let' keyword ?
+	1. If you can reassign the value of the variable then use 'let'.
+	2. When we are working with looping conditions its helpfull.
+	3. Your declared variable inside the block dont want to access in outside of the block scope then use 'let'. 
+
+what is 'a=0'(no keywords) ? 
+	1. A variable doesn't have a keyword is called global Scoped Variable.
+	(EX)  a=0;
+
+When we can use 'a=0' (no keyword) ?
+	1. If we want to give access permission to the entire code , dont care about blocks  then we will use a variable without keyword.
+	

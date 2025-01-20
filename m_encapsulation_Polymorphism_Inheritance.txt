@@ -1,0 +1,55 @@
+ENCAPSULATION : 
+------------------------
+	1. Encapsulation is a technique of binding all the properties ( data ) and behaviours ( methods ) into single unit.
+	2. Its called information hiding or data hiding.
+	3. The Encapsulation techniques provide security of the data , which is acheived by a Access specifiers. We bind the properties and methods with private keyword, 
+which is accesible within the class only.
+	4. In programming side we can achieve Encapsulation by creating the class. Inside the class we can wrap data and methods.
+
+Example  - >  Hotel menu ( Realtime example ) 
+	       - >  country
+
+POLYMORPHISM : 
+------------------------
+	1. One Man act like a multiple characters.
+	2. A method have same name and work different kind of tasks.
+	3. A same methods do a different tasks. In that suituation we can find out with parameters, type and number of parameters.
+
+Example : A Rajinikanth is the method ,He is act as a Police , Auto driver , Conductor and etc.
+
+Run()  -> method. Its works A man can run and returns a man behaviour.
+Run()  -> method. here it works a woman can run and returns a woman behaviour.
+Run() - > Method. here it works a animal can run and returns a animal behaviour.
+
+This is called Polymorphism
+
+
+INHERITANCE : 
+--------------------
+	1. A Parent class has its own peoperty, and a child class has its own prperty. A child class wants to use of parent class peoperties then it will inherits from the parent 
+class. Then child class had the permission to use of parant class properties and methods.
+	2. By use of parent class properties , child class will use like it needs.
+	3. Inheritance is mainly use for code reusability. for example. We have class called calculator, Its has addition,substraction,multiplication and division. If i want to add 
+modules into the calculator class, no need to recreate all of the properties. Just inherite from the parent class just add a new property from the child class,
+
+Example ->  Solor system - parent class
+		 Sun -> child class
+		 Moon -> child class.
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		

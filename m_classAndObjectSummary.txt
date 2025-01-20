@@ -1,0 +1,41 @@
+DIFFERENCE BETWEEN CLASS AND OBJECT : 
+-----------------------------------------------------------
+	1. Class is the skeleton of the body (its like blueprint).
+	2. Class has the properties and methods (like handbone,skull,walk,speak,read,etc).
+	3. Its unique.
+	4. Class is a common entity.(EX - Dog,Human,Bike,Road and etc)
+	5. When we declare a class , that is lifeless  human body.
+	6. After creating Objects for the class , then will be the class (human body) has life.
+	7. Object is the instances or references or user of the class.
+	8. Objects seems like real world entity ( paper, pen etc)
+	9. Objects are not same. Each object should be unique. Never exist before.(If we have a object called Iphone,Then we can create Iphone ,Then its not valid)
+	10. Objects will define the properties and methods of the class.
+	11. With the one class we call create multiple objects.
+	12. Objects and classes have the close relationship. here God is the class and the Murugan is the object.
+
+Example of class and objects :
+----------------------------------------
+	1.Class name is Airport
+	2.Objects => KempaGowdaAirport
+	3.Objects => ChennaiAirport
+	4.Objects => TrichyAirport.
+
+Here i will explain about Abstraction.
+	If i am going to KempagowdaAirport to drop my friend by my car and I want to take selfies at selfie spot and I need to use of restroom urgently.
+ Then I will  search parking property, Selfiespot property and restroom property after i need to make use of it. And then I don't care about ticket counter,boarding point properties etc.
+This is example for Abstraction.
+
+ABSTRACTION : 
+---------------------
+         If I want to use particular properties to reach my goal then i will focus on that. And I ignore all other properties that i dont want. Here another example is If i am a driver
+I just focus brake,clutch and accelerator. I dont know the engine functionilty and internal funtionalities.
+
+
+
+
+
+
+
+
+
+ 

@@ -1,0 +1,41 @@
+source,destination,train no,train name,departure time,distance,frequency
+Bangalore,Hyderabad,1001,Kacheguda Express,11:10,600,daily
+Hyderabad,New Delhi,1002,AP Express,22:15,1200,daily
+New Delhi,Bangalore,1003,Karnataka Express,22:00,1700,weekly
+Bangalore,Mumbai,1004,Chalukya Express,09:00,1000,daily
+Hyderabad,Mumbai,1005,Dadar Express,12:25,800,daily
+New Delhi,Mumbai,1006,Yamuna Express,11:15,1200,weekly
+New Delhi,Aurangabad,1007,Ellora Express,10:20,1300,daily
+Aurangabad,Bangalore,1008,Ajanta Express,08:00,1000,daily
+Mumbai,Jaipur,1009,Jaipur Express,06:45,900,daily
+Jaipur,Bangalore,1010,Garden City Express,09:30,1530,weekly
+Patna,Hyderabad,1011,Patna Express,11:00,1330,daily
+Mysore,Patna,1012,Mysore Express,13:15,1690,daily
+Vijayawada,Bangalore,1013,Krishna Express,14:00,1100,weekly
+Chennai,Madurai,1014,TN Express,16:20,300,daily
+Madurai,Mumbai,1015,Cauvery Express,09:45,900,daily
+Coimbatore,Mumbai,1016,Coimbatore Mail,08:35,1200,daily
+Hyderabad,Mumbai,1017,Hussainsagar Express,23:55,1000,daily
+Bangalore,Hyderabad,1018,Yeswanthapur Express,23:10,600,daily
+Mumbai,Chennai,1019,Chennai Express,22:10,1420,weekly
+Coimbatore,Chennai,1020,Chennai Mail,19:15,400,daily
+Chennai,Kolkata,1021,Grand Trunk Express,18:00,1800,daily
+Chennai,Mumbai,1022,Mumbai Express,16:40,1420,daily
+Chennai,New Delhi,1023,Janata Express,15:00,1900,daily
+Jaipur,Mumbai,1024,Pinkcity Express,12:15,800,daily
+Chandigarh,New Delhi,1025,Capital Express,12:45,300,daily
+Jhansi,New Delhi,1026,Rani Express,13:45,750,daily
+Itarsi,New Delhi,1027,Link Express,21:00,870,weekly
+Agra,New Delhi,1028,Taj Express,20:20,500,daily
+Nagpur,Mumbai,1029,Maharashtra Express,12:30,400,daily
+Varanasi,Chennai,1030,Benaras Express,10:30,1150,daily
+Mangalore,Bangalore,1031,Mangalore Express,05:45,350,daily
+Ernakulam,Bangalore,1032,Kerala Express,04:00,750,weekly
+Kanyakumari,Srinagar,1033,India Express,02:15,2500,weekly
+Srinagar,Kanyakumari,1034,India Express,00:00,2500,weekly
+Mumbai,Chennai,1035,Jayanti Express,00:30,1420,daily
+Hyderabad,Varanasi,1036,Kashi Express,12:00,1500,weekly
+Bangalore,Mysore,1037,Palace Express,10:00,150,daily
+Mangalore,Ernakulam,1038,West Coast Express,09:15,850,daily
+Mangalore,Mysore,1039,Malnad Express,08:30,250,daily
+Mysore,New Delhi,1040,Rajdhani Express,07:15,1900,weekly
